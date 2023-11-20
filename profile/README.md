@@ -12,4 +12,4 @@
 -->
 
 We are ochakumi!
-Click [here](https://ochakumi.github.io/) for details.
+Click [here](https://www.ochakumi.com/) for details.
